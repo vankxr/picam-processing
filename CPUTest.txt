@@ -1,0 +1,41 @@
+took 0.033963 seconds to process frame
+writting img000.ppm from buffer 0
+took 0.037780 seconds to process frame
+writting img001.ppm from buffer 1
+took 0.039152 seconds to process frame
+writting img002.ppm from buffer 0
+took 0.038549 seconds to process frame
+writting img003.ppm from buffer 1
+took 0.038833 seconds to process frame
+writting img004.ppm from buffer 0
+took 0.038193 seconds to process frame
+writting img005.ppm from buffer 1
+took 0.038505 seconds to process frame
+writting img006.ppm from buffer 0
+took 0.038668 seconds to process frame
+writting img007.ppm from buffer 1
+took 0.038816 seconds to process frame
+writting img008.ppm from buffer 0
+took 0.038732 seconds to process frame
+writting img009.ppm from buffer 1
+took 0.038320 seconds to process frame
+writting img010.ppm from buffer 0
+took 0.038250 seconds to process frame
+writting img011.ppm from buffer 1
+took 0.038041 seconds to process frame
+writting img012.ppm from buffer 0
+took 0.038727 seconds to process frame
+writting img013.ppm from buffer 1
+took 0.038791 seconds to process frame
+writting img014.ppm from buffer 0
+took 0.038684 seconds to process frame
+writting img015.ppm from buffer 1
+took 0.038169 seconds to process frame
+writting img016.ppm from buffer 0
+took 0.038919 seconds to process frame
+writting img017.ppm from buffer 1
+took 0.038186 seconds to process frame
+writting img018.ppm from buffer 0
+took 0.038296 seconds to process frame
+writting img019.ppm from buffer 1
+
